@@ -9,6 +9,12 @@
 [Azure 계정 선택](https://1drv.ms/x/c/e04dc3bec3161f8b/EZPD2jN3fwZAql1JHRm44o4BgzxkTYFXOLwReilMwSyHWw?e=W6eFCD)
 
 Azure Portal [http://portal.azure.com](http://portal.azure.com)<br>
+
+Day 1
+ID: labuser1~29 @helloaicloud.onmicrosoft.com<br>
+Password: !Seoul2025<br>
+
+Day 2
 ID: labuser1~29 @korealab.onmicrosoft.com<br>
 Password: !Seoul2025<br>
 
