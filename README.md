@@ -40,3 +40,5 @@ Password: !Seoul2025<br>
 [08. 이미지에서 개체 검색](https://learn.microsoft.com/ko-kr/training/modules/detect-objects-images/?wt.mc_id=AZ-MVP-33796)
 
 [09. 비디오 분석](https://learn.microsoft.com/ko-kr/training/modules/analyze-video/?wt.mc_id=AZ-MVP-33796)
+
+[10. Azure OpenAI 모델을 활용하여 앱 만들기](https://learn.microsoft.com/ko-kr/training/modules/utilize-azure-openai-model-create-app/)
