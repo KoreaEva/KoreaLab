@@ -111,7 +111,7 @@ def read_image_ocr(image_path):
 
     # 결과가 준비될 때까지 폴링 (최대 10회, 1초 간격)
     for _ in range(10):
-        result_response = requests.get(operation_url, headers={'Ocp-Apim-Subscription-Key': subscrption_key})
+        result_response = requests.get(operation_url, headers={'Ocp-Apim-Subscription-Key': subscription_key})
         result_json = result_response.json()
         status = result_json.get("status")
         if status == "succeeded":
