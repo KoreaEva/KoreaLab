@@ -42,3 +42,5 @@ Password: !Seoul2025<br>
 [09. 비디오 분석](https://learn.microsoft.com/ko-kr/training/modules/analyze-video/?wt.mc_id=AZ-MVP-33796)
 
 [10. Azure OpenAI 모델을 활용하여 앱 만들기](https://learn.microsoft.com/ko-kr/training/modules/utilize-azure-openai-model-create-app/)
+
+[Computer Vision Sample](./ComputerVision/)
